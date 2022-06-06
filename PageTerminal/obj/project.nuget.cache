@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "52MgIyKhQkYx2dwpKUDLbVZmBaghB8L4NGF5FLfIxfRrHC8xpEG10QMOhcoCSQI14T4miFtNfu+ui1uHMCLJJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\OneDrive\\Рабочий стол\\PageTerminal\\PageTerminal\\PageTerminal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
